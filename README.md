@@ -1,6 +1,6 @@
 👋 Hi, I’m @DunZoulDev
 - 👀 I’m interested in Science, Art, Medical, Universe
-- 🌱 I’m currently learning Front-End, Back-End, AI
+- 🌱 I’m currently learning Front-End, Back-End, AI & more
 
 
 
