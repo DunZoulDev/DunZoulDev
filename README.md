@@ -1,5 +1,5 @@
 👋 Hi, I’m @DunZoulDev
-- 👀 I’m interested in science and art
+- 👀 I’m interested in Science, Art, Medical, Universe
 - 🌱 I’m currently learning Front-End, Back-End, AI
 
 
